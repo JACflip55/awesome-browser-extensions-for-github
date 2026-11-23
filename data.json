@@ -955,5 +955,62 @@
     "stars": 3313,
     "installCount": 449,
     "lastUpdate": "6 Aug 2024"
+  },
+  {
+    "name": "codereview.gpt",
+    "source": "https://github.com/sturdy-dev/codereview.gpt",
+    "tags": [
+      "ai",
+      "codereview",
+      "pullrequest"
+    ],
+    "store": {
+      "chrome": "https://chrome.google.com/webstore/detail/codereviewgpt/amdfidcajdihmbhmmgohhkoaijpkocdn"
+    },
+    "description": "Reviews your pull requests using ChatGPT.",
+    "stars": 608
+  },
+  {
+    "name": "GitIngest",
+    "source": "https://github.com/coderamp-labs/gitingest-extension",
+    "tags": [
+      "ai",
+      "repository"
+    ],
+    "store": {
+      "chrome": "https://chromewebstore.google.com/detail/adfjahbijlkjfoicpjkhjicpjpjfaood",
+      "firefox": "https://addons.mozilla.org/firefox/addon/gitingest/",
+      "edge": "https://microsoftedge.microsoft.com/addons/detail/nfobhllgcekbmpifkjlopfdfdmljmipf"
+    },
+    "description": "Turns any GitHub repository into a prompt-friendly text digest for LLMs.",
+    "stars": 235
+  },
+  {
+    "name": "DeepWiki Button for GitHub",
+    "source": "https://github.com/yamadashy/github-deepwiki-button",
+    "tags": [
+      "ai",
+      "repository"
+    ],
+    "store": {
+      "firefox": "https://addons.mozilla.org/firefox/addon/github-deepwiki-unofficial/",
+      "edge": "https://microsoftedge.microsoft.com/addons/detail/github-deepwiki-unoffici/cofnelnkmdkglinllgllloeelmbggfep"
+    },
+    "description": "Adds a button to GitHub repositories that opens the repository's AI-generated wiki on DeepWiki.",
+    "stars": 99
+  },
+  {
+    "name": "Guided Review",
+    "source": "https://github.com/nshntarora/guidedreview",
+    "tags": [
+      "ai",
+      "codereview",
+      "pullrequest"
+    ],
+    "store": {
+      "chrome": "https://chromewebstore.google.com/detail/pdnnimoajmnjpccboemeomoeomancodd"
+    },
+    "description": "Turns a pull request into an ordered walkthrough of related changes, with optional LLM commentary, for reviewing AI-generated code.",
+    "stars": 61
   }
 ]

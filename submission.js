@@ -15,6 +15,7 @@ data.push(removeEmptyKeys({
     description: submission.description,
     source: submission.source,
     tags: cleanTags([
+        submission.ai && 'ai',
         submission.code && 'code',
         submission.codereview && 'codereview',
         submission.comments && 'comments',

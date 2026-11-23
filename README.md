@@ -57,6 +57,12 @@ Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be hel
 
 Installs: 6 | Stars: 467 | Last update: 1 Mar 2021
 
+### [DeepWiki Button for GitHub](https://github.com/yamadashy/github-deepwiki-button) <a href="https://addons.mozilla.org/firefox/addon/github-deepwiki-unofficial/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/github-deepwiki-unoffici/cofnelnkmdkglinllgllloeelmbggfep"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
+
+Adds a button to GitHub repositories that opens the repository's AI-generated wiki on DeepWiki.
+
+Installs: n/a | Stars: 99 | Last update: n/a
+
 ### [Enhanced GitHub](https://github.com/softvar/enhanced-github) <a href="https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/enhanced-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/enhanced-github/eibibhailjcnbpjmemmcaakcookdleon"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
 
 Displays size of each file, download link and an option of copying file contents directly to clipboard
@@ -183,6 +189,12 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) in the reposit
 
 Installs: 2000 | Stars: 309 | Last update: n/a
 
+### [GitIngest](https://github.com/coderamp-labs/gitingest-extension) <a href="https://chromewebstore.google.com/detail/adfjahbijlkjfoicpjkhjicpjpjfaood"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/gitingest/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/nfobhllgcekbmpifkjlopfdfdmljmipf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
+
+Turns any GitHub repository into a prompt-friendly text digest for LLMs.
+
+Installs: n/a | Stars: 235 | Last update: n/a
+
 ### [GitZip for github](https://github.com/GitZip/chrome-extension) <a href="https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/gitzip/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 It can make the sub-directories and files of github repository as zip and download it
@@ -200,6 +212,12 @@ Installs: 553 | Stars: n/a | Last update: n/a
 Extension to get back current and longest streak.
 
 Installs: 23 | Stars: 231 | Last update: 30 Jun 2021
+
+### [Guided Review](https://github.com/nshntarora/guidedreview) <a href="https://chromewebstore.google.com/detail/pdnnimoajmnjpccboemeomoeomancodd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Turns a pull request into an ordered walkthrough of related changes, with optional LLM commentary, for reviewing AI-generated code.
+
+Installs: n/a | Stars: 61 | Last update: n/a
 
 ### [Hacker Tab](https://github.com/huchenme/hacker-tab-extension) <a href="https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
@@ -376,6 +394,12 @@ Installs: 1000 | Stars: n/a | Last update: n/a
 ZenHub is the first and only project management suite that works natively within GitHub; enhancing your workflow with features built specifically for startups, fast-moving engineering teams, and the open-source community. The product is a browser extension that injects advanced functionality including real-time drag-and-drop Issue Task Boards, peer feedback via a +1 button, and support for uploading any file type directly into the GitHub interface. ZenHub makes it easy to centralize all processes into GitHub, keeping your team lean and agile.
 
 Installs: 70000 | Stars: n/a | Last update: n/a
+
+### [codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) <a href="https://chrome.google.com/webstore/detail/codereviewgpt/amdfidcajdihmbhmmgohhkoaijpkocdn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Reviews your pull requests using ChatGPT.
+
+Installs: n/a | Stars: 608 | Last update: n/a
 
 ### [eesel: The new tab for GitHub](https://www.eesel.app/) <a href="https://chrome.google.com/webstore/detail/eesel-the-new-tab-for-wor/jffaiidojfhflballoapgofphkadiono"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/eesel/reviews/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
